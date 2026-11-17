@@ -1,0 +1,60 @@
+body {
+  background: linear-gradient(135deg, #07111b, #247993);
+  color: #d5e9f6;
+  font-family: "BBH Bogle", Quicksand, sans-serif;
+  margin: 0;
+  padding: 24px;
+}
+
+h1,
+h2 {
+  color: #00D2BE;
+}
+
+section {
+  background-color: #182a35;
+  padding: 18px;
+  margin: 18px 0;
+  border-left: 4px solid #00D2BE;
+  border-radius: 8px;
+}
+
+section {
+  background-color: #182a35;
+  padding: 18px;
+  margin: 18px 0;
+  border-left: 4px solid #00D2BE;
+  border-radius: 8px;
+}
+
+#introduccion {
+  background-color: #20333d;
+}
+
+#biografia {
+  background-color: #0b4f74;
+}
+
+#logros {
+  background-color: #0d3951;
+}
+
+#datos {
+  background-color: #11212b;
+}
+
+nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+nav a {
+  color: #00D2BE;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: white;
+}
